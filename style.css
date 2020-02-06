@@ -1,0 +1,67 @@
+h1{ /*News heading font*/
+	font-size:30px;
+	color: green;		
+}
+
+h5{/*News publish date font*/
+	font-size:10;
+	color: grey; /* grey color code */
+}	
+
+
+
+
+#container{
+	background-color: black;
+	/*width:1300px;*/
+	height:;
+	/*margin-left:auto;
+	margin-right:auto;*/
+}	
+#TopLeft{
+background-color: orange;
+width: 30%;
+height: 600px;
+padding: 10px; 
+float:left;
+margin-left:auto;
+	margin-right:auto;
+}
+
+#TopMid{
+	background-color: blue;
+	width: 30%;
+height: 600px
+/*margin-left:auto;
+	margin-right:auto;*/
+}
+
+#TopRight{
+	background-color: green;
+	width: 30%;
+height: 600px;
+float:right;
+margin-left:auto;
+	margin-right:auto;
+}
+
+#BotLeft{
+	background-color: yellow;
+	width: 30%;
+height: 300px
+}
+
+#BotMid{
+	background-color: red;
+	width: 30%;
+height: 300px
+}
+
+#BotRight{
+	background-color: purple;
+	width: 30%;
+height: 300px
+} 
+
+
+	
