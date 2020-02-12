@@ -11,10 +11,22 @@ h5{/*News publish date font*/
 
 
 
+#Footer2
+{background-color: #EE7E17;
+float: right ;
+width: 100%;
+padding: 0px
+}
+
+
+
+
 #container{
+	/*  width: 90%;  */
+	margin: auto;
 	background-color: black;
 	/*width:1300px;*/
-	height:;
+	
 	/*margin-left:auto;
 	margin-right:auto;*/
 }	
@@ -62,6 +74,3 @@ height: 300px
 	width: 30%;
 height: 300px
 } 
-
-
-	
